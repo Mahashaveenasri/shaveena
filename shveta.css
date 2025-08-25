@@ -1,0 +1,8 @@
+@import "tailwindcss;"
+
+body{
+    bg color:#E1AD01;
+}
+@theme{
+    /*...*/
+}
